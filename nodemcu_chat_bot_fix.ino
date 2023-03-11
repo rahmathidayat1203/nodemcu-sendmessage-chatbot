@@ -8,12 +8,12 @@ const char* ssid = "******";
 const char* password = "******";
 
 // Initialize Telegram BOT
-#define BOTtoken "5785002391:AAFN6xdqaW81AD4CH4GOWLM3DJEZq8JPU1o"  // your Bot Token (Get from Botfather)
+#define BOTtoken "******:********************"  // your Bot Token (Get from Botfather)
 
 // Use @myidbot to find out the chat ID of an individual or a group
 // Also note that you need to click "start" on a bot before it can
 // message you
-#define CHAT_ID "6011565146"
+#define CHAT_ID "*********"
 
 X509List cert(TELEGRAM_CERTIFICATE_ROOT);
 WiFiClientSecure client;
